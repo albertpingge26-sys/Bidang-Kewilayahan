@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import Sidebar from './Sidebar';
-import StatsGrid from './components/StatsGrid';
-import MainMap from './components/MainMap';
+import StatsGrid from './StatsGrid';
+import MainMap from './MainMap';
 import RegionalDataLedger from './components/RegionalDataLedger';
 import AIPlanner from './components/AIPlanner';
 import { INITIAL_DATA, RegionalPotential } from './types';
