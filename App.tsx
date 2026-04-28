@@ -2,7 +2,7 @@ import { useState } from 'react';
 import Sidebar from './Sidebar';
 import StatsGrid from './StatsGrid';
 import MainMap from './MainMap';
-import RegionalDataLedger from './components/RegionalDataLedger';
+import RegionalDataLedger from './RegionalDataLedger';
 import AIPlanner from './components/AIPlanner';
 import { INITIAL_DATA, RegionalPotential } from './types';
 import { motion, AnimatePresence } from 'motion/react';
