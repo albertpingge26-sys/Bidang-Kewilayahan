@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Sidebar from './components/Sidebar';
+import Sidebar from './Sidebar';
 import StatsGrid from './components/StatsGrid';
 import MainMap from './components/MainMap';
 import RegionalDataLedger from './components/RegionalDataLedger';
